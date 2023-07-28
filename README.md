@@ -21,7 +21,7 @@ This script requires the following Python libraries to be installed:
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/ascii-art-generator.git
+   git clone https://github.com/NicholasStambaugh/ascii-art-generator.git
    ```
 
 2. Navigate to the project directory:
