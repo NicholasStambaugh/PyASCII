@@ -1,6 +1,6 @@
 # ASCII Art Generator
 
-This is a Python script that generates ASCII art based on the word you type.
+This is a Python script that allows you to quickly generate ASCII art based on the word you type.
 
 ## Getting Started
 
