@@ -1,3 +1,33 @@
+<div id="header" align="center">
+  
+# Support Me  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZlOGYyNDBkN2JmYjM3NDdjNzk1NjdkMTA4NzM1ZDJkNTUwMGVlZCZjdD1z/hvRJCLFzcasrR4ia7z/giphy.gif" width="65"/>
+  <img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="100"/>
+<div id="badges">
+   <a href="https://www.linkedin.com/in/nick-stambaugh-694241139/L">
+   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://medium.com/@nick-stambaugh">
+  <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium"/>
+  </a>
+  <a href="https://public.tableau.com/app/profile/nick4514">
+  <img src="https://img.shields.io/badge/tableau-navy?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  </a>
+  <br>
+  <br>
+    <a href="https://nickstambaugh.com">
+  <img src="https://img.shields.io/badge/personal_website-blueviolet?style=for-the-badge&logo=&logoColor=white" alt="Website"/>
+  <a>
+  <img src="https://komarev.com/ghpvc/?username=NicholasStambaugh&style=flat-rectangle&color=red&" alt=""/>
+  </a>
+</div>
+    </div>
+  
+# Status
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+
+This repo is now maintained by [Nick Stambaugh](https://www.linkedin.com/in/nick-s-694241139/)
+
+
 # ASCII Art Generator
 
 This is a Python script that allows you to quickly generate ASCII art based on the word you type.
